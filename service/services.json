@@ -1,0 +1,15 @@
+{
+    "id": "com.lampa.tv.service",
+    "description": "Lampa service",
+    "services": [{
+        "name": "com.lampa.tv.service",
+        "description": "Lampa service",
+        "methods": [
+            {
+                "name": "ffprobe",
+                "description": "Get stream metadata",
+                "public": true
+            }
+        ]
+    }]
+}

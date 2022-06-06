@@ -1,6 +1,10 @@
 # lampa-ffprobe-service 
 
-ffprobe webOS service for Lampa https://github.com/yumata/lampa 
+ffprobe webOS service for Lampa https://github.com/yumata/lampa
+
+ffprobe arm binary [ffmpeg static](https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-armhf-static.tar.xz)
+
+save to `service/node_modules/ffprobe-static/bin/webos/arm/`
 
 usage 
 ```

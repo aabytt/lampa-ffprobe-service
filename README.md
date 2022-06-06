@@ -18,6 +18,6 @@ webOS.service.request('luna://com.lampa.tv.service', {
           },
   	onFailure: function (event) {
     		console.log(JSON.stringify(event));
-    }
+   	 }
 });
 ```

@@ -1,6 +1,6 @@
 {
   "name": "com.lampa.tv.service",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lampa service",
   "main": "service.js",
   "scripts": {
